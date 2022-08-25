@@ -13,6 +13,6 @@ My main skillas are:
 + Tools: Word, PowerPoint, Paint;
 + OS: Windows, Android;
 + Technologies: HTML5, CSS3;
-+ Bug tracking systems and testing tools: Jira (basics), Postman (basics);
++ Bug tracking systems and testing tools: Jira, Postman (basics);
 + Programming languages: JavaScript (basics);
 + Other programs: Visual Studio Code, Adobe Photoshop, Adobe Illustrator;
