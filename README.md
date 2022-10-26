@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @WaleriaQA
 - 👀 I’m interested in in finding a remote job in a big company because I would like to continue applying all the knowledge, gained during the courses and work.
 - 🌱 I enjoy learning new things.
-- 📫 How to reach me waleria86@mail.ru
+- 📫 How to reach me moldoveanca4@abv.bg
 
 <!---
 WaleriaQA/WaleriaQA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
