@@ -1,3 +1,5 @@
+![product-test-life-cycle](https://user-images.githubusercontent.com/86474410/198015766-cb00bf71-884f-4c32-9a54-784e367647bb.jpg)
+
 - 👋 Hi, I’m @WaleriaQA
 - 👀 I’m interested in in finding a remote job in a big company because I would like to continue applying all the knowledge, gained during the courses and work.
 - 🌱 I enjoy learning new things.
