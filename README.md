@@ -17,4 +17,4 @@ My main skillas are:
 + Technologies: HTML5, CSS3;
 + Bug tracking systems and testing tools: Jira, Postman (basics);
 + Programming languages: JavaScript (basics);
-+ Other programs: Visual Studio Code, Adobe Photoshop, Adobe Illustrator;
++ Other programs: Visual Studio Code, WebStorm, Adobe Photoshop, Adobe Illustrator;
