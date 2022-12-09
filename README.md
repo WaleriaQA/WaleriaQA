@@ -12,9 +12,10 @@ You can click the Preview link to take a look at your changes.
 My main skillas are:
 + English level: C1
 + Databases: SQL (basics);
-+ Tools: Word, PowerPoint, Paint;
++ Version control: GitHub, GitHub desktop;
 + OS: Windows, Android;
 + Technologies: HTML5, CSS3;
 + Bug tracking systems and testing tools: Jira, Postman (basics);
 + Programming languages: JavaScript (basics);
++ Tools: Word, PowerPoint, Paint;
 + Other programs: Visual Studio Code, WebStorm, Adobe Photoshop, Adobe Illustrator;
