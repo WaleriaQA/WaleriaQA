@@ -17,12 +17,11 @@ WaleriaQA/WaleriaQA is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 My main skills are:
-+ English level: C1
-+ Databases: SQL (basics);
++ English level: C1;
++ Bug tracking systems and testing tools: Jira, Postman, Cypress;
++ Programming languages: JavaScript, Python;
 + Version control: GitHub, GitHub desktop;
 + OS: Windows, Android;
 + Technologies: HTML5, CSS3;
-+ Bug tracking systems and testing tools: Jira, Postman, Cypress;
-+ Programming languages: JavaScript;
-+ Tools: Word, PowerPoint, Paint;
-+ Other programs: Visual Studio Code, WebStorm, Adobe Photoshop, Adobe Illustrator;
++ Databases: SQL (basics);
++ Other programs: Visual Studio Code, WebStorm, Adobe Photoshop, Adobe Illustrator.
