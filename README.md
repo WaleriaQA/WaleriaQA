@@ -10,7 +10,7 @@
 
 - 🌱 I enjoy learning new things.
 
-- 📫 How to reach me moldoveanca4@abv.bg or www.linkedin.com/in/waleria-stojanowska
+- 📫 How to reach me itscorpio8@gmail.com or www.linkedin.com/in/waleria-stojanowska
 
 <!---
 WaleriaQA/WaleriaQA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
