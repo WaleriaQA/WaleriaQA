@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Waleria ≽^• ˕ • ྀི≼
 
-<img width="500" height="500" alt="meeow-modified-removebg-preview" src="https://github.com/user-attachments/assets/1e1e3709-e6a4-4c28-a546-a916bdb953c8" />
+<img width="500" height="500" background="none" alt="meeow-modified-removebg-preview" src="https://github.com/user-attachments/assets/1e1e3709-e6a4-4c28-a546-a916bdb953c8" />
 
 ### About me
 
