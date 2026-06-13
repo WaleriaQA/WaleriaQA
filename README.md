@@ -1,27 +1,53 @@
-![product-test-life-cycle](https://user-images.githubusercontent.com/86474410/198015766-cb00bf71-884f-4c32-9a54-784e367647bb.jpg)
+# 👋 Hi, I'm Waleria
 
-- 👋 Hi, I’m @WaleriaQA
+### About me
 
-- 👋 My slogan is: Education is the most powerful weapon with which you can change the world.
+I started my journey in IT as a Manual QA engineer and later created educational materials and courses for Manual and Automation Testing.
 
-- 👀 I am a manual QA and currently participate in several projects, where we are testing different web and mobile applications. In most cases, we have to do with functional, localization, usability, exploratory, accessibility and voice testing. On a daily basis, I fill out test cases and write bug reports. I am well-organized and detail-oriented. My qualities, such as sociability, flexibility and punctuality make me good at teamwork.
+Over time I discovered that software development fascinated me even more, especially frontend development. Today I focus on building web applications, browser extensions, Telegram bots, and other interesting projects that help me improve my skills and explore new technologies. ### Most of my projects are built with Angular, React, JavaScript, TypeScript and Node.js.
 
-- 👀 I’m interested in finding a remote job in a big company because I would like to continue applying all the knowledge, gained during the courses and work.
+I enjoy turning ideas into real products and constantly learning new tools, frameworks, and development approaches. I'm particularly interested in both the history and future of programming, from legacy systems built with COBOL to experimental and esoteric programming languages.
 
-- 🌱 I enjoy learning new things.
+### 🚀 What I'm working with
 
-- 📫 How to reach me itscorpio8@gmail.com or www.linkedin.com/in/waleria-stojanowska
+* JavaScript
+* TypeScript
+* React
+* Angular
+* Node.js
+* HTML5
+* CSS3
+* SCSS
+* Git & GitHub
 
-<!---
-WaleriaQA/WaleriaQA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-My main skills are:
-+ English level: C1;
-+ Bug tracking systems and testing tools: Jira, Postman, Cypress;
-+ Programming languages: JavaScript, Python;
-+ Version control: GitHub, GitHub desktop;
-+ OS: Windows, Android;
-+ Technologies: HTML5, CSS3;
-+ Databases: SQL (basics);
-+ Other programs: Visual Studio Code, WebStorm, Adobe Photoshop, Adobe Illustrator.
+### 🛠 Tools
+
+* VS Code
+* WebStorm
+* Postman
+* Jira
+* GitHub 
+
+### 🌱 Currently learning
+
+* Modern frontend architecture
+* Advanced TypeScript
+* Full-stack development
+* Building production-ready applications
+
+### 📂 Projects
+
+You can find various personal projects in my repositories, including:
+
+* Chrome extensions
+* Telegram bots
+* Frontend applications
+* Educational projects
+* Experiments with modern JavaScript frameworks
+
+### 📫 Contact
+
+* Email: [itscorpio8@gmail.com](mailto:itscorpio8@gmail.com)
+* LinkedIn: [www.linkedin.com/in/waleria-stojanowska](http://www.linkedin.com/in/waleria-stojanowska)
+
+> Education is the most powerful weapon with which you can change the world.
