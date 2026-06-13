@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Waleria
+# 👋 Hi, I'm Waleria ≽^• ˕ • ྀི≼
 
 ### About me
 
