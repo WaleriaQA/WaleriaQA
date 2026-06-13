@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Waleria ≽^• ˕ • ྀི≼
 
+<img width="1254" height="1254" alt="meeow" src="https://github.com/user-attachments/assets/9abad9ae-28f1-4e22-b600-87578ae63ed4" />
+
 ### About me
 
 I started my journey in IT as a Manual QA engineer and later created educational materials and courses for Manual and Automation Testing.
@@ -16,6 +18,7 @@ I enjoy turning ideas into real products and constantly learning new tools, fram
 * Angular
 * Node.js
 * HTML5
+
 * CSS3
 * SCSS
 * Git & GitHub
