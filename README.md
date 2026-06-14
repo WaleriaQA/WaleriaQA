@@ -52,7 +52,8 @@ You can find various personal projects in my repositories, including:
 * LinkedIn: [www.linkedin.com/in/waleria-stojanowska](http://www.linkedin.com/in/waleria-stojanowska)
 
 > Education is the most powerful weapon with which you can change the world.
-> <picture>
+
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/54f996bc-aa04-4b3f-a73e-443eb6efd6c1">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/54f996bc-aa04-4b3f-a73e-443eb6efd6c1">
   <img width="400" height="400" alt="meeoow" src="https://github.com/user-attachments/assets/54f996bc-aa04-4b3f-a73e-443eb6efd6c1" />
