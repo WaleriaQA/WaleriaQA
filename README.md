@@ -1,6 +1,11 @@
 # 👋 Hi, I'm Waleria ≽^• ˕ • ྀི≼
 
-<img width="500" height="500" alt="lucid-origin_i_need_a_circle_picture_of_the_programming_cat_javascript_typescript_reacj_angul-0-removebg-preview" src="https://github.com/user-attachments/assets/b6931667-4777-4b13-9675-e9ec98199925" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b6931667-4777-4b13-9675-e9ec98199925">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b6931667-4777-4b13-9675-e9ec98199925">
+  <img width="500" height="500" alt="lucid-origin_i_need_a_circle_picture_of_the_programming_cat_javascript_typescript_reacj_angul-0-removebg-preview" src="https://github.com/user-attachments/assets/b6931667-4777-4b13-9675-e9ec98199925" />
+</picture>
+
 
 
 ### About me
