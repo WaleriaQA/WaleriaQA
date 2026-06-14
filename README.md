@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Waleria ≽^• ˕ • ྀི≼
 
-<img width="500" height="500" alt="photo_5870820819183799900_x" src="https://github.com/user-attachments/assets/f3f812b4-4cfd-40de-8abd-166456f90a72" />
+<img width="500" height="500" alt="lucid-origin_i_need_a_circle_picture_of_the_programming_cat_javascript_typescript_reacj_angul-0-removebg-preview" src="https://github.com/user-attachments/assets/b6931667-4777-4b13-9675-e9ec98199925" />
+
 
 ### About me
 
