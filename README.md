@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Waleria ≽^• ˕ • ྀི≼
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b6931667-4777-4b13-9675-e9ec98199925">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b6931667-4777-4b13-9675-e9ec98199925">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/54f996bc-aa04-4b3f-a73e-443eb6efd6c1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/54f996bc-aa04-4b3f-a73e-443eb6efd6c1">
   <img width="400" height="400" alt="meeoow" src="https://github.com/user-attachments/assets/54f996bc-aa04-4b3f-a73e-443eb6efd6c1" />
 </picture>
 
