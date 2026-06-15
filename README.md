@@ -51,7 +51,7 @@ You can find various personal projects in my repositories, including:
 * Email: [itscorpio8@gmail.com](mailto:itscorpio8@gmail.com)
 * LinkedIn: [www.linkedin.com/in/waleria-stojanowska](http://www.linkedin.com/in/waleria-stojanowska)
 
-> Education is the most powerful weapon with which you can change the world.
+**Education is the most powerful weapon with which you can change the world.**
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/54f996bc-aa04-4b3f-a73e-443eb6efd6c1">
