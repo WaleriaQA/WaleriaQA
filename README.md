@@ -16,7 +16,6 @@ I enjoy turning ideas into real products and constantly learning new tools, fram
 * Angular
 * Node.js
 * HTML5
-
 * CSS3
 * SCSS
 * Git & GitHub
